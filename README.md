@@ -33,3 +33,8 @@ Using databricks to create delta lake/data lakehouse for ingesting, transforming
 * Delete individual records
 * Ability to see history and time travel
 * Ability to roll back to a previous version
+
+
+
+We will be following the architecture found in the link below, focusing heavily on the bronze, silver, gold delta tables:
+https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-modern-analytics-architecture
